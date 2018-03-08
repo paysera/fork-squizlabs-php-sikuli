@@ -1,4 +1,7 @@
 <?php
+
+namespace Paysera\Sikuli;
+
 require_once 'Exceptions.inc';
 
 /**

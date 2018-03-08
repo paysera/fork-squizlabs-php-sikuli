@@ -1,4 +1,9 @@
 <?php
+
+namespace Paysera\Sikuli;
+
+use Exception;
+
 /**
  * Thrown when there is a PHP -> Sikuli connection error.
  */
