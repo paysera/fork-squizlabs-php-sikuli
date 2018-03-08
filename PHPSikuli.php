@@ -2,8 +2,6 @@
 
 namespace Paysera\Sikuli;
 
-require_once 'Exceptions.inc';
-
 /**
  * PHPSikuli is a PHP wrapper for Sikuli.
  *
@@ -1500,6 +1498,7 @@ class PHPSikuli
      * @param string $error The Sikuli Error.
      *
      * @return void
+     * @throws SikuliException
      */
     private function _errorToException($error)
     {
