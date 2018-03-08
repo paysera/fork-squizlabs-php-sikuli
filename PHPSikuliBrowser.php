@@ -9,8 +9,6 @@
  * @link      https://github.com/squizlabs/php-sikuli
  */
 
-namespace Paysera\Sikuli;
-
 class PHPSikuliBrowser extends PHPSikuli
 {
 

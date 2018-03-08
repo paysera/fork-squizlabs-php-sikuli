@@ -1,7 +1,5 @@
 <?php
 
-namespace Paysera\Sikuli;
-
 /**
  * PHPSikuli is a PHP wrapper for Sikuli.
  *
