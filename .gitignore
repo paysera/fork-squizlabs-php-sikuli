@@ -1,2 +1,3 @@
 SikuliX/libs
-tmp
+tmp/
+vendor/
