@@ -1,4 +1,5 @@
 <?php
+
 /**
  * Thrown when there is a PHP -> Sikuli connection error.
  */

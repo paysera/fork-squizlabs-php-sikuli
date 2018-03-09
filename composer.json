@@ -1,5 +1,14 @@
 {
     "name": "paysera/fork-squizlabs-php-sikuli",
     "type": "library",
-    "require": {}
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": [
+            "PHPSikuli.php",
+            "PHPSikuliBrowser.php",
+            "Exceptions.inc"
+        ]
+    }
 }
